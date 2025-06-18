@@ -2,9 +2,11 @@
 # Deep Bhanushali(A012) & Fardeen Khatri(A018)
 
 📌 PROJECT OVERVIEW:
+
 This project applies unsupervised machine learning techniques—specifically K-Means clustering—to group individuals based on their fitness and health-related data from the FitLife dataset. The goal is to generate actionable and personalized fitness recommendations for different clusters of users by analyzing trends across key attributes such as age, BMI, heart rate, hydration, sleep, and more.
 
 ===========================================================
+
 🎯 OBJECTIVES:
 - Cluster users with similar health and fitness patterns using K-Means.
 - Use PCA and t-SNE for dimensionality reduction and visualization.
@@ -12,11 +14,13 @@ This project applies unsupervised machine learning techniques—specifically K-M
 - Generate personalized recommendations based on cluster analysis.
 
 ===========================================================
+
 📁 DATASET:
 - File Used: fitlife_health_fitness.csv
 - Attributes: age, height, weight, BMI, steps, heart rate, blood pressure, stress, hydration, sleep, intensity, calories burned, and more.
 
 ===========================================================
+
 🛠️ TOOLS & LIBRARIES USED:
 - Python
 - Pandas, NumPy – Data wrangling
@@ -26,6 +30,7 @@ This project applies unsupervised machine learning techniques—specifically K-M
 - Jupyter Notebook / Google Colab environment
 
 ===========================================================
+
 🔍 PROJECT STEPS:
 
 STEP 1: INSTALL & IMPORT LIBRARIES
