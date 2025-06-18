@@ -1,7 +1,5 @@
-=================================================================
-  PROJECT TITLE: Personalized Health & Fitness Clustering
-	Deep Bhanushali(A012) & Fardeen Khatri(A018)
-=================================================================
+# PROJECT TITLE: Personalized Health & Fitness Clustering
+# Deep Bhanushali(A012) & Fardeen Khatri(A018)
 
 📌 PROJECT OVERVIEW:
 This project applies unsupervised machine learning techniques—specifically K-Means clustering—to group individuals based on their fitness and health-related data from the FitLife dataset. The goal is to generate actionable and personalized fitness recommendations for different clusters of users by analyzing trends across key attributes such as age, BMI, heart rate, hydration, sleep, and more.
