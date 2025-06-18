@@ -1,5 +1,5 @@
 # PROJECT TITLE: Personalized Health & Fitness Clustering
-# Deep Bhanushali(A012) & Fardeen Khatri(A018)
+# Deep Bhanushali(A012) &  Fardeen Khatri(A018)
 
 📌 PROJECT OVERVIEW:
 
