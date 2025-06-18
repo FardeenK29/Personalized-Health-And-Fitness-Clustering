@@ -56,6 +56,7 @@ STEP 7: GENERATE PERSONALIZED RECOMMENDATIONS
   - Append the recommendations to the dataset for each user.
 
 ===========================================================
+
 📊 SAMPLE RECOMMENDATIONS BY CLUSTER:
 
 Cluster 0 ➤ Increase daily steps and hydration, reduce stress levels  
@@ -65,16 +66,19 @@ Cluster 3 ➤ Incorporate strength training and monitor blood pressure
 Cluster 4 ➤ Work on weight management and cardiovascular health  
 
 ===========================================================
+
 📈 OUTPUTS:
 - Cluster-labeled dataset with visualizations.
 - Personalized health recommendations based on cluster group.
 - PCA and t-SNE plots for visual interpretation of clusters.
 
 ===========================================================
+
 📌 CONCLUSION:
 This project showcases how unsupervised learning techniques like K-Means, combined with dimensionality reduction tools, can uncover hidden patterns in fitness data and provide targeted wellness strategies. The methodology supports personalization in health tracking applications.
 
 ===========================================================
+
 👤 AUTHOR:
 A012_DeepBhanushali & A018_FardeenKhatri
 
@@ -85,6 +89,7 @@ A012_DeepBhanushali & A018_FardeenKhatri
 7th April 2025
 
 ===========================================================
+
 LICENSE:
 This notebook is intended for academic and educational purposes only.
 
